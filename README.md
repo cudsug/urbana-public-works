@@ -29,7 +29,7 @@ Your answers will tell us how to improve our capture.  Some examples:
 
 By the way, our data is also interesting on its own!
 
-More than 3,400 Work Orders and 1,300 Requests show an impressive amount of work over 14 months.   The data is well structured, easily queryable, and meaningfully titled.  We welcome projects that find meaningful insights into the work.
+More than 3,400 Work Orders and 1,300 Requests show an impressive amount of work over 14 months.   The data is well structured, easily queryable, and meaningfully titled.  We welcome projects that find meaningful insights into the work performed.
 
 ## Evaluation criteria
 
