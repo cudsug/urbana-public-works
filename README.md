@@ -27,6 +27,10 @@ Your answers will tell us how to improve our capture.  Some examples:
 
 - Redundant information may exist – which would be in fields that have the same value frequently.  In some cases, redundant information can be combined and one entry field can be eliminated.
 
+==By the way, our data is also interesting on its own==
+
+More than 3,400 Work Orders and 1,300 Requests show an impressive amount of work over 14 months.   The data is well structured, easily queryable, and meaningfully titled.  We welcome projects that find meaningful insights into the work.
+
 ## Evaluation criteria
 
 We are looking for suggestions here, not conclusive answers.  Real-world application is appreciated, although creativity is also encouraged.  
