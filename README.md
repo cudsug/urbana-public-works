@@ -29,6 +29,14 @@ Your answers will tell us how to improve our capture.  Some examples:
 
 ## Evaluation criteria
 
-
+We are looking for suggestions here, not conclusive answers.  Real-world application is appreciated, although creativity is also encouraged.  
 
 ## Data Details
+
+Three data sets are provided, with the same data in .csv and .xlsx forms:
+
+Work_Request_Detail - contains all Requests.  Requests can be generated internally or externally.  Requests are routed to the appropriate Divisions.  Some Requests will result in Work Orders, while others may be closed with no further action.
+
+Work_Order_Summary_Information - contains all Work Orders.  Overall information to classify the Work Order, plus summary cost information if Resources were charged to the work.  There is one row per Work Order.
+
+Work_Order_Resource_Detail - contains details about the resources charged to the Work Order.  There could be many rows for a Work Order, as they are recorded with details about the task, date, resource, etc.
